@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Menus : MonoBehaviour
+public class AF_Menus : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
